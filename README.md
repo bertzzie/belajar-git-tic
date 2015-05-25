@@ -2,4 +2,10 @@
 
 Ini adalah sebuah file yang harus dibaca terlebih dahulu sebelum menggunakan perangkat lunak.
 
-Lorem ipsum.
+Baris kedua ditambahkan! 
+
+Testing 123. 
+
+## Perubahan baru
+
+Ini adalah paragraf perubahan baru.
